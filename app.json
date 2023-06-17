@@ -4,10 +4,10 @@
     "slug": "Cheers To Go - Drink Express",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/logo.jpg",
+    "icon": "./assets/cocktail.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/logoFull.jpg",
+      "image": "./assets/cocktail.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,14 +19,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.developerf.mapa"
+      "bundleIdentifier": "com.developerf.cheerstogo"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/logo.png",
+        "foregroundImage": "./assets/cocktail.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.developerf.mapa"
+      "package": "com.developerf.cheerstogo"
     }
   },
     "extra": {

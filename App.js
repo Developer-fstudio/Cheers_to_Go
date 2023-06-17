@@ -11,7 +11,6 @@ import CartScreen from './Screens/CartScreen';
 
 
 const Stack = createNativeStackNavigator();
-const [cartItems, setCartItems] = useState([]);
 
 
 const App = () => {
